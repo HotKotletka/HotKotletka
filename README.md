@@ -16,4 +16,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=HotKotletka&icon=9&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📂 My Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HotKotletka&repo=repo-name-1&theme=prussian)](https://github.com/HotKotletka/testing-sport)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HotKotletka&repo=repo-name-2&theme=prussian)](https://github.com/HotKotletka/test)
