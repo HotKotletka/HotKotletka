@@ -16,8 +16,24 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=HotKotletka&icon=9&color=1)](https://visitcount.itsvg.in)
 
+
 ## 📂 My Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HotKotletka&repo=repo-name-1&theme=prussian)](https://github.com/HotKotletka/testing-sport)
+### [Testing Sport](https://github.com/HotKotletka/testing-sport)
+Automated testing framework for sports applications. Includes API and UI tests.
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat&logo=selenium&logoColor=white)
+![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=flat&logo=pytest&logoColor=0A9EDC)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HotKotletka&repo=repo-name-2&theme=prussian)](https://github.com/HotKotletka/test)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HotKotletka&repo=testing-sport&theme=prussian)](https://github.com/HotKotletka/testing-sport)
+
+---
+
+### [Test Project](https://github.com/HotKotletka/test)
+A collection of experimental scripts and proof-of-concept automation.
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat&logo=jest&logoColor=white)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HotKotletka&repo=test&theme=prussian)](https://github.com/HotKotletka/test)
+
